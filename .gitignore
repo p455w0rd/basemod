@@ -24,3 +24,6 @@
 # Include Important Folders
 !src/
 !libs/
+
+#The program that makes it all tick
+!BaseModInstaller-1.0.0.jar
