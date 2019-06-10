@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[26,)"
+credits="TheRealp455w0rd"
+authors="TheRealp455w0rd"
+[[mods]]
+    modId="sct"
+    version="0.0.1"
+    displayName="@@MODNAME@@" #mandatory
+    description='''
+@@MODNAME@@
+
+'''
+
+[[dependencies.sct]]
+    modId="forge"
+    mandatory=true
+    versionRange="[26,)"
+    ordering="NONE"
+    side="BOTH"
